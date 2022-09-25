@@ -12,6 +12,6 @@
  
  <h2>Skills and Experience:</h2>
 <h5>HTML, CSS, Bootstrap, GSAP, RWD, JavaScript, React, Node.js, Redux  </h5>
-<h6>VS Code, Figma, Glitch, Netlify, Git</h6>
+<h6>VS Code, Figma, Glitch, Netlify, Github</h6>
 
 📫 How to reach me: <a href="mailto:itcraft.inc@gmail.com">Email</a>
