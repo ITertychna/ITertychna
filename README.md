@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1>Hi there, I`m Iryna 👋</h1>
 
-<!--
-**ITertychna/ITertychna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Front End Developer from Toronto, CA!</h3>
 
-Here are some ideas to get you started:
+- 💬 The creation of modern, easy-to-use websites with responsive web design is what I know, do, and improve daily
+- 🌱 I’m currently learning React, Node.js, and Redux
+- 👯 I’m looking to collaborate on different projects
+- 🔭 You can view my <a href="https://iryna-tertychna-portfolio.glitch.me/">Portfolio</a> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 
+ 
+ <h2>Skills and Experience:</h2>
+<h5>HTML, CSS, Bootstrap, GSAP, RWD, JavaScript, React, Node.js, Redux  </h5>
+<h6>VS Code, Figma, Glitch, Netlify, Git</h6>
+
+📫 How to reach me: <a href="mailto:itcraft.inc@gmail.com">Email</a>
