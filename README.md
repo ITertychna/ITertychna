@@ -1,4 +1,4 @@
-<h1>Hi there, I`m Iryna <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> 
+<h1>Hi there, I`m Iryna <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="22"/></h1> 
 
 <h3>Front End Developer from Toronto, CA!</h3>
 
